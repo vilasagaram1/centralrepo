@@ -1,1 +1,1 @@
-git commit -m "message"
+git checkout branch_name
